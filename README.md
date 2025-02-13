@@ -14,7 +14,7 @@ Este es un proyecto simple en HTML y CSS para mostrar un mensaje romántico acom
 ## 📂 Estructura de archivos
 ```
 /
-├── index.html  # Página principal
+├── te quiero.html  # Página principal
 ├── README.md   # Documentación del proyecto
 ```
 
